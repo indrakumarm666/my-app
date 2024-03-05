@@ -1,0 +1,7 @@
+.main{
+  background-color: rgb(26, 132, 238);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
